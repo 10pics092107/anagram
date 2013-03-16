@@ -1,0 +1,37 @@
+
+C:\Users\iWindows\Desktop\anagram>python "anagram group(1).py"
+enter a string : race
+enter another string : care
+brute force
+anagrams :  True
+time taken :  3.68534952275e-05
+efficient method
+anagram :  True
+time taken :  2.93894961941e-05
+efficient-bruteforce =  -7.46399903341e-06
+
+do you want to continue(y/n)y
+enter a string : charming
+enter another string : marching
+brute force
+anagrams :  True
+time taken :  5.50469928697e-05
+efficient method
+anagram :  True
+time taken :  4.29179944419e-05
+efficient-bruteforce =  -1.21289984278e-05
+
+do you want to continue(y/n)y
+enter a string : undefinability
+enter another string : undefinability
+brute force
+anagrams :  True
+time taken :  6.48434916002e-05
+efficient method
+anagram :  True
+time taken :  5.27144931652e-05
+efficient-bruteforce =  -1.21289984349e-05
+
+do you want to continue(y/n)n
+
+C:\Users\iWindows\Desktop\anagram>
